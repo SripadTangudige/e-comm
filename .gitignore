@@ -1,1 +1,4 @@
 /.idea/
+/inventory-service/.mvn/
+/order-service/.mvn/
+/product-service/.mvn/
